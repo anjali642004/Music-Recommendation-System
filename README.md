@@ -27,8 +27,8 @@ Installation
 sh
 Copy
 Edit
-git clone https://github.com/amantaphelix/Spotify-recommendation-system
-cd Spotify-recommendation-system
+git clone 
+cd 
 pip install -r requirements.txt
 streamlit run app.py
 Usage
